@@ -1,0 +1,13 @@
+.dub
+docs.json
+__dummy.html
+docs/
+spotify_update_cleaner.so
+spotify_update_cleaner.dylib
+spotify_update_cleaner.dll
+spotify_update_cleaner.a
+spotify_update_cleaner.lib
+spotify_update_cleaner-test-*
+*.o
+*.obj
+*.lst

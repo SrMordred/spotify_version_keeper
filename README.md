@@ -1,3 +1,19 @@
+# Spotify Version Keeper
+
+(Windows Only)
+
+This is a simple DLang App made to run in background and remove the folder
+```%appdata%/../Local/Spotify/Update``` whenever there is something there,
+and because of that Spotify are unable to run its automatic update.
+
+You can check the sources and build the executable yourself by downloading D Language DMD compiler ([D Language](https://dlang.org/download.html#dmd)), and run this into the cloned repo folder to generate the executable:
+
+```dub build --compiler=dmd -a=x86_64 -b=release -c=application```
+
+Or, if you trust me, there are already an executable on this repo.
+
+## License
+
 Boost Software License - Version 1.0 - August 17th, 2003
 
 Permission is hereby granted, free of charge, to any person or organization
