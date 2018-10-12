@@ -1,10 +1,10 @@
 {
-	"description": "Simple Dlang Spotify Update Keeper",
+	"description": "Simple Dlang Spotify Version Keeper",
 	"license": "boost",
 	"authors": [
 		"Patric"
 	],
 	"copyright": "Copyright © 2018, Patric",
-	"name": "spotify_update_keeper",
+	"name": "spotify_version_keeper",
 	"lflags": ["/subsystem:windows","/entry:mainCRTStartup"]
 }
