@@ -10,7 +10,7 @@ You can check the sources and build the executable yourself by downloading D Lan
 
 ```dub build --compiler=dmd -a=x86_64 -b=release -c=application```
 
-Or, if you trust me, there are already an executable on this repo.
+Or, if you trust me, there is already an executable on this repo.
 
 ## License
 
