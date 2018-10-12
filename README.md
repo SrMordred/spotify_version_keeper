@@ -3,8 +3,8 @@
 (Windows Only)
 
 This is a simple DLang App made to run in background and remove the folder
-```%appdata%/../Local/Spotify/Update``` whenever there is something there,
-and because of that Spotify are unable to run its automatic update.
+```%appdata%/../Local/Spotify/Update``` whenever there is something there.
+Because of that, Spotify are unable to run its automatic update.
 
 You can check the sources and build the executable yourself by downloading D Language DMD compiler ([D Language](https://dlang.org/download.html#dmd)), and run this into the cloned repo folder to generate the executable:
 
