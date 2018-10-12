@@ -1,10 +1,10 @@
 {
-	"description": "A minimal D application.",
-	"license": "proprietary",
+	"description": "Simple Dlang Spotify Update Keeper",
+	"license": "boost",
 	"authors": [
 		"Patric"
 	],
 	"copyright": "Copyright © 2018, Patric",
-	"name": "spotify_update_cleaner",
+	"name": "spotify_update_keeper",
 	"lflags": ["/subsystem:windows","/entry:mainCRTStartup"]
 }
